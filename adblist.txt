@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Version: 20231102110743
+! ---------- Generic Blocking Rules ----------
+! impress.co.jp
+impress.co.jp##aside.social
+impress.co.jp##div.ad-inline
+impress.co.jp##aside.ad
