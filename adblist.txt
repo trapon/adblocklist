@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+[Adblock Plus 2.8]
 ! Homepage: https://github.com/trapon/adblocklist/
 ! Title: adblocklist
 ! Expires: 1 days
@@ -13,6 +13,6 @@
 ! Project committers: 
 ! Project contributors: 
 ! impress.co.jp
-impress.co.jp##aside.social
-impress.co.jp##div.ad-inline
-impress.co.jp##aside.ad
+||impress.co.jp##aside.social
+||impress.co.jp##div.ad-inline
+||impress.co.jp##aside.ad
