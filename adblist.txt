@@ -1,6 +1,16 @@
-[Adblock Plus 2.0]
-! Version: 20231102110743
-! ---------- Generic Blocking Rules ----------
+! Homepage: https://github.com/trapon/adblocklist/
+! Title: adblocklist
+! Expires: 1 days
+! Version: 202105262051
+!
+! Last modified: 
+! Change log: 
+! Code license: GNU GPL v3: http://www.gnu.org/licenses/gpl.html
+! Content license: Creative Commons BY-NC-SA 4.0 http://creativecommons.org/licenses/by-nc-sa/4.0/
+! Support policy: 
+! Project owners: 
+! Project committers: 
+! Project contributors: 
 ! impress.co.jp
 impress.co.jp##aside.social
 impress.co.jp##div.ad-inline
