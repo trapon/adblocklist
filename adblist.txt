@@ -1,3 +1,4 @@
+[Adblock Plus 3.2]
 ! Homepage: https://github.com/trapon/adblocklist/
 ! Title: adblocklist
 ! Expires: 1 days
